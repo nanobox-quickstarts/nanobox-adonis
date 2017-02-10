@@ -1,2 +1,5 @@
 run.config:
   engine: nodejs
+
+web.adonis:
+  start: node server.js
