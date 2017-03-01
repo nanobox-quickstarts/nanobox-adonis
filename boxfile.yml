@@ -7,5 +7,3 @@ web.main:
   start:
     nginx: nginx -c /app/config/nginx.conf
     adonis: npm start
-    # log_watch:
-      # nginx[error]: logs/error.log
