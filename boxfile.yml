@@ -2,6 +2,7 @@ run.config:
   engine: nodejs
   extra_packages:
     - nginx
+  fs_watch: true
 
 web.main:
   start:
