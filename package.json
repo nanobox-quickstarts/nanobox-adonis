@@ -7,7 +7,6 @@
     "start": "node server.js",
     "lint": "standard"
   },
-  "author": "",
   "license": "MIT",
   "description": "",
   "private": true,
@@ -20,8 +19,8 @@
     "adonis-lucid": "^3.0.12",
     "adonis-middleware": "^1.0.10",
     "adonis-websocket": "^1.0.2",
-    "standard": "^8.6.0",
-    "youch": "^1.0.1"
+    "standard": "^10.0.3",
+    "youch": "^2.0.5"
   },
   "standard": {
     "global": [
@@ -33,7 +32,7 @@
     "App": "./app"
   },
   "devDependencies": {
-    "nodemon": "^1.11.0",
-    "standard": "^8.6.0"
+    "nodemon": "^1.12.1",
+    "standard": "^10.0.3"
   }
 }
