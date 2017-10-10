@@ -48,3 +48,16 @@ yarn ls
 # and your code is mounted
 ls
 ```
+
+## Clean things up _(optional)_
+
+If you want to keep this project ignore this. If not, clean things up by removing the DNS entry:
+
+```bash
+nanobox dns rm local adonis.dev
+```
+
+## Now What?
+For more details about running adonis apps with nanobox visit [guides.nanobox.io/nodejs/adonis/](https://guides.nanobox.io/nodejs/adonis/)
+
+<a href="https://nanobox.io"><img src="https://guides.nanobox.io/assets/quickstart-icons/footer.png" /></a>
